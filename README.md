@@ -16,6 +16,7 @@ Ben Tristem & Michael Bridges
 
 
 ## DD03 Quick Explode
+## DD04 Introduction To The Physics Engine
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
