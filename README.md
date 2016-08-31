@@ -18,6 +18,7 @@ Ben Tristem & Michael Bridges
 ## DD03 Quick Explode
 ## DD04 Introduction To The Physics Engine
 ## DD05 Copying Physics Properties
+## DD06 Centre Of Mass
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
