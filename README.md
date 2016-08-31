@@ -17,6 +17,7 @@ Ben Tristem & Michael Bridges
 ## DD02 Welcome to Destruction
 ## DD03 Quick Explode
 ## DD04 Introduction To The Physics Engine
+## DD05 Copying Physics Properties
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
