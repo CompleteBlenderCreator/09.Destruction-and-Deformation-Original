@@ -20,6 +20,7 @@ Ben Tristem & Michael Bridges
 ## DD05 Copying Physics Properties
 ## DD06 Centre Of Mass
 ## DD07 Animating With Physics
+## DD08 Breaking Up A Model Using Particles.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
