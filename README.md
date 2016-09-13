@@ -24,6 +24,8 @@ Ben Tristem & Michael Bridges
 ## DD08 Breaking Up A Model Using Particles.
 ## DD09 Force Fields And Particles
 ## DD10 Force Fields And Other Objects
+## DD11 Cell Fracture Add-On
+## DD12 Fracturing With A Child Object
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
