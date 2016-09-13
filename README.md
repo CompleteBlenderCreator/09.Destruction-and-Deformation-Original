@@ -26,6 +26,7 @@ Ben Tristem & Michael Bridges
 ## DD10 Force Fields And Other Objects
 ## DD11 Cell Fracture Add-On
 ## DD12 Fracturing With A Child Object
+## DD13 Fracturing With The Grease Pencil
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
