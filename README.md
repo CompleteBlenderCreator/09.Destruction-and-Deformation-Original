@@ -26,7 +26,7 @@ Ben Tristem & Michael Bridges
 ## DD10 Force Fields And Other Objects
 ## DD11 Cell Fracture Add-On
 ## DD12 Fracturing With A Child Object (Broken Tool in to 3 lectures)
-## DD13 Fracturing With The Grease Pencil
+## DD13 Fracturing With The Grease Pencil (15/09/2016 RE-record- Audio Garbage)
 ## DD14 Animating Render Layers
 
 ——
