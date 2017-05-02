@@ -81,6 +81,3 @@
 ### Destruction Wrap Up ###
 
 Well done for completing the Destruction Section
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
