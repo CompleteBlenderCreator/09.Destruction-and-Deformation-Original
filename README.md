@@ -1,19 +1,19 @@
 
-### Section 9 Introduction ###
+### 1 Section 9 Introduction ###
 
 
 
-### Welcome to Destruction ###
+### 2 Welcome to Destruction ###
 
 
 
-### Quick Explode ###
+### 3 Quick Explode ###
 
 + This may be all you need if you want something quick.
 + It can be used as a starting point.
 + We’ll explore what it is actually doing for us.
 
-### Introduction To Blender Physics ###
+### 4 Introduction To Blender Physics ###
 
 + Simulate the real world.
 + You can manually place every bit of destroyed or deformed geometry if you wanted to.
@@ -28,28 +28,28 @@
 + It will move and rotate objects
 + It will not deform them.
 
-### Copying Physics Properties ###
+### 5 Copying Physics Properties ###
 
 + Physics properties are not linked to the object or data datablock.
 + They are part of the Scene Datablock.
 + You cannot make links to the physics.
 + You can however, copy from an active mesh object.
 
-### Centre Of Mass ###
+### 6 Centre Of Mass ###
 
 + Wherever the ORIGIN is.
 + You have control of this which isn’t always a good thing.
 + This can lead to some strange results.
 + Blender can calculate the centre of mass (assuming a uniform density)
 
-### Animating With Physics ###
+### 7 Animating With Physics ###
 
 + Remember: Blender allows you to animate almost anything.
 + We can use this to toggle whether we are in control of, or the physics engine is in charge of our mesh.
 + Blenders Physics Engine will remember what has just happened in the animation.
 + Quick peek at the graph editor
 
-### Breaking Up A Model Using Particles ###
+### 8 Breaking Up A Model Using Particles ###
 
 + Unfortunately Blender needs to be told HOW to break something up.
 + There are a couple of ways of doing that:
@@ -62,23 +62,12 @@
 + Look at Particle settings.
 + Look at the collision physics Data.
 
-### Force Fields And Particles ###
-
-
-
-### Force Fields And Other Objects ###
-
-
-
-### Cell Fracture Add-On ###
-
-
-
-### Fracturing With A Child Object ###
-
+### 9 Force Fields And Particles ###
+### 10 Force Fields And Other Objects ###
+### 11 Cell Fracture Add-On ###
+### 12 Fracturing With A Child Object ###
 ### 13_DD_CBC Fracturing With The Grease Pencil
 ### 14_DD_CBC Animating Render Layers
-
 ### Destruction Wrap Up ###
 
 
