@@ -1,10 +1,12 @@
 
 ### 1 Section 9 Introduction ###
 
+### 2 Welcome to Destruction ###
 
 
 ### 2 Welcome to Destruction ###
 
+### 3 Quick Explode ###
 
 
 ### 3 Quick Explode ###
@@ -35,6 +37,10 @@
 + You cannot make links to the physics.
 + You can however, copy from an active mesh object.
 
+### 5a Applying Transforms With Physics
++ Remind to apply your transforms
++ What happened when you don't
+
 ### 6 Centre Of Mass ###
 
 + Wherever the ORIGIN is.
@@ -42,14 +48,14 @@
 + This can lead to some strange results.
 + Blender can calculate the centre of mass (assuming a uniform density)
 
-### 7 Animating With Physics ###
+### 7 Animating With Physics
 
 + Remember: Blender allows you to animate almost anything.
 + We can use this to toggle whether we are in control of, or the physics engine is in charge of our mesh.
 + Blenders Physics Engine will remember what has just happened in the animation.
 + Quick peek at the graph editor
 
-### 8 Breaking Up A Model Using Particles ###
+### 8 Breaking Up A Model Using Particles
 
 + Unfortunately Blender needs to be told HOW to break something up.
 + There are a couple of ways of doing that:
@@ -62,10 +68,14 @@
 + Look at Particle settings.
 + Look at the collision physics Data.
 
-### 9 Force Fields And Particles ###
-### 10 Force Fields And Other Objects ###
-### 11 Cell Fracture Add-On ###
-### 12 Fracturing With A Child Object ###
+### 9 Force Fields And Particles
+
+### 10 Force Fields And Other Objects
+
+### 11 Cell Fracture Add-On
+
+### 12 Fracturing With A Child Object
+
 ### 13_DD_CBC Fracturing With The Grease Pencil
 ### 14_DD_CBC Animating Render Layers
 ### Destruction Wrap Up ###
