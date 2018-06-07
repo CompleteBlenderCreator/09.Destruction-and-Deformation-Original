@@ -83,7 +83,8 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ### 12 Fracturing With A Child Object
 
-### 13_DD_CBC Fracturing With The Grease Pencil
+### 13 Fracturing With The Grease Pencil
++ (Updated 7/6/2018)
 ### 14_DD_CBC Animating Render Layers
 ### Destruction Wrap Up ###
 
