@@ -15,9 +15,6 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ### 3 Quick Explode ###
 
-
-### 3 Quick Explode ###
-
 + This may be all you need if you want something quick.
 + It can be used as a starting point.
 + We’ll explore what it is actually doing for us.
@@ -54,6 +51,7 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + You have control of this which isn’t always a good thing.
 + This can lead to some strange results.
 + Blender can calculate the centre of mass (assuming a uniform density)
++ (Updated for 2.79 09/06/2018)
 
 ### 7 Animating With Physics
 
